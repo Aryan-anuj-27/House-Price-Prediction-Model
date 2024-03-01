@@ -1,4 +1,4 @@
-# House-Price-Prediction-Model-Machine-Learning
+# House-Price-Prediction-Model-Using-Machine-Learning
 This repository contains the code and data files for a house price prediction model using machine learning. The model utilizes the Ridge regression technique to predict house prices in Bengaluru, India.
 
 ## Dataset
